@@ -1,0 +1,7 @@
+digital\jameel\twitterstreamer\streamer\OutputStreamer.class
+digital\jameel\twitterstreamer\Config.class
+digital\jameel\twitterstreamer\streamer\TwitterStreamer.class
+digital\jameel\twitterstreamer\streamer\TwitterStreamerPutRequest.class
+digital\jameel\twitterstreamer\streamer\KinesisStreamer.class
+digital\jameel\twitterstreamer\streamer\PutRequest.class
+digital\jameel\twitterstreamer\Main.class

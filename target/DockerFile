@@ -1,0 +1,6 @@
+FROM java:8
+WORKDIR /
+COPY twitter-streamer-1.0-SNAPSHOT-jar-with-dependencies.jar /home/twitter-streamer-1.0-SNAPSHOT-jar-with-dependencies.jar
+EXPOSE 8080
+CMD java -jar /home/twitter-streamer-1.0-SNAPSHOT-jar-with-dependencies.jar
+
